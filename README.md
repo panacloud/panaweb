@@ -1,1 +1,1 @@
-# panaweb
+# Panaweb Framework
